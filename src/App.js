@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Aveti Tutorials
+         React Docker
         </a>
       </header>
     </div>
